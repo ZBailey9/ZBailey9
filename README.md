@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbailey9&label=Profile%20views&color=0e75b6&style=flat" alt="zbailey9" /> </p>
 
-- 🌱 I’m currently studyning **Artificial Intelligence**
+- 🌱 I’m currently studying **Artificial Intelligence**
 
 - 💬 Ask me about **Full-stack Python**
 
